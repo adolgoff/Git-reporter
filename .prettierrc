@@ -1,0 +1,17 @@
+{
+  "trailingComma": "all",
+  "quoteProps": "preserve",
+  "arrowParens": "always",
+  "endOfLine": "lf",
+  "singleQuote": true,
+  "bracketSpacing": false,
+  "semi": true,
+  "overrides": [
+    {
+      "files": "*.scss",
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ]
+}
